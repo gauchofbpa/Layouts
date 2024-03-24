@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(68, 116, 196);
+}
+.flex{
+    display: flex;
+}
+.yellow {
+    background-color: rgb(252, 252, 4);
+    padding: 100px;
+    margin: 10px;
+}
+.green {
+    background-color: green;
+    padding: 100px;
+    padding-left: 320px;
+    margin: 10px;
+}
+.violet {
+    background-color: violet;
+    padding: 100px;
+    padding-bottom: 510px;
+    margin: 10px;
+}
+.orange {
+    background-color: orange;
+    padding: 100px;
+    padding-bottom: 300px;
+    margin: 10px;
+}
+.purple {
+    background-color: purple;
+    padding: 100px;
+    padding-left: 540px;
+    margin: 10px;
+}
+.red {
+    background-color: red;
+    padding: 100px;
+    padding-left: 540px;
+    margin: 10px;
+}
